@@ -1,1 +1,2 @@
-boss,NetID,Lastname,FirstName
+role,NetID,LastName,FirstName
+boss,ychen2327,Chen,Yuqian
